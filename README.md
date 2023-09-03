@@ -5,6 +5,7 @@
 Breast cancer is the most common cancer among women worldwide, accounting for 25 percent of all cancer cases and affected two point one million people in 2015, early diagnosis significantly increases the chances of survival. The key challenge in cancer detection is how to classify tumors into malignant or benign machine learning techniques can dramatically improves the accuracy of diagnosis. Research indicates that most experienced physicians can diagnose cancers with 79 percent accuracy, while 91 percent correct diagnosis is achieved using machine learning techniques in this case study. 
 
 My task is to classify tumors into malignant or benign tumors using features of patients from several cell images.
+![steps](https://github.com/Samarjiit/Breast_cancer_case_Study/blob/main/pic1.png)
 
 ## 2.Steps 
  First step in the cancer diagnosis process is to do what we call it, fine needle aspirate or FANNI process, which is simply extracting some of the cells out of the tumor. 
@@ -17,8 +18,8 @@ My task is to classify tumors into malignant or benign tumors using features of 
  
  And then we feed all these features into kind of our machine learning model in a way which is kind of a brain in a way.The idea is we want to teach the machine how to basically classify images or classify data and tell us, OK, if it's malignant or benign, for example, in this case, without any human intervention.
 
-![steps](https://github.com/Samarjiit/Breast_cancer_case_Study/blob/main/pic1.png)
 
+![data](https://github.com/Samarjiit/Breast_cancer_case_Study/blob/main/ssa.png)
 
 ## 3. Conclusion 
 Machine learning techniques (SVM) was able to classify tumors into Malignant/Benign with 97% accuracy.
