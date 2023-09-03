@@ -1,5 +1,5 @@
 
-# Project based on BREAST CANCER CLASSIFICATION👋
+# BREAST CANCER CLASSIFICATION👋
 
 ## 1. Motivation 
 Breast cancer is the most common cancer among women worldwide, accounting for 25 percent of all cancer cases and affected two point one million people in 2015, early diagnosis significantly increases the chances of survival. The key challenge in cancer detection is how to classify tumors into malignant or benign machine learning techniques can dramatically improves the accuracy of diagnosis. Research indicates that most experienced physicians can diagnose cancers with 79 percent accuracy, while 91 percent correct diagnosis is achieved using machine learning techniques in this case study. 
@@ -21,4 +21,11 @@ My task is to classify tumors into malignant or benign tumors using features of 
 
 
 ## 3. Conclusion 
+Machine learning techniques (SVM) was able to classify tumors into Malignant/Benign with 97% accuracy.
+
+The technique can rapidly evaluate breast masses and classify them in an automated fashion. 
+
+Early breast cancer can dramatically save lives especially in the developing world.
+
+The technique can be further improved by combining Computer vision/ML techniques to directly classify cancer using tissue images.
 ![steps](https://github.com/Samarjiit/Breast_cancer_case_Study/blob/main/res2.png)
